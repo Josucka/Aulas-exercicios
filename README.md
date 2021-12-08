@@ -8,7 +8,7 @@
 * [Validando nota do Aluno PY](https://github.com/Josucka/exerciciosaula6/blob/main/exe6.py)
 * [Validando se os numeros sao iguais PY](https://github.com/Josucka/exerciciosaula6/blob/main/exe7.py)
 * [Desafio do Caixa eletronico PY](https://github.com/Josucka/exerciciosaula6/blob/main/caixa_eletronico.py)
-* []()
+* [Desafio calcular area do terreno PY](https://github.com/Josucka/exerciciosaula6/blob/main/definicao.py)
 * []()
 * []()
 * []()
