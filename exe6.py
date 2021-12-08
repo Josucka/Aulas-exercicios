@@ -1,4 +1,4 @@
-def aluno(F=0,D=0,C=0,B=0,A=0):
+def aluno(F = 0, D = 0, C = 0, B = 0, A = 0):
     if nota >= 0 and nota <= 10:
         if nota < 6:
             print('Nota F')
@@ -15,4 +15,4 @@ def aluno(F=0,D=0,C=0,B=0,A=0):
     return nota
 
 nota = float(input('Nota do aluno: '))
-aluno(F=0,D=0,C=0,B=0,A=0)
+aluno(F = 0, D = 0, C = 0, B = 0, A = 0)
