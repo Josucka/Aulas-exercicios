@@ -1,4 +1,4 @@
-def somaImposto(taxaim,custo):
+def somaImposto(taxaim, custo):
     taxaImposto = taxaim / 100
     produt = custo - taxaImposto
     print(f'O produto com os devidos impostos custa: R${produt}')
@@ -8,4 +8,4 @@ def somaImposto(taxaim,custo):
 taxaim = float(input('Qual o valor do acrecido: '))
 custo = float(input('Quanto custa o prduto: '))
 
-somaImposto(taxaim,custo)
+somaImposto(taxaim, custo)
