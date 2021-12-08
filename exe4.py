@@ -1,4 +1,4 @@
-def funcionario(hr,salario):
+def funcionario(hr, salario):
     hr = salario / 40
     adicional = hr * 1.5
     salTotal = adicional + salario
@@ -11,4 +11,4 @@ def funcionario(hr,salario):
 
 salario = float(input('Qual valor do salario do funcionario: '))
 hr = float(input('Quantas horas trabalhadas: '))
-funcionario(hr,salario)
+funcionario(hr, salario)
