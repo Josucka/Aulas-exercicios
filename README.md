@@ -10,5 +10,6 @@
 * [Desafio do Caixa eletronico PY](https://github.com/Josucka/exerciciosaula6/blob/main/caixa_eletronico.py)
 * [Desafio calcular area do terreno PY](https://github.com/Josucka/exerciciosaula6/blob/main/definicao.py)
 * [Verificação data de aniversario PY](https://github.com/Josucka/exerciciosaula6/blob/main/desafio.py)
+* [Calculando Raio C#](https://github.com/Josucka/exerciciosaula6/blob/main/CalcularRaio.cs)
 
 ### Esse foram exercicios feito em aula durante o curso na [Blue-edtech](https://blueedtech.com.br).
