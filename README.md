@@ -12,5 +12,6 @@
 * [Verificação data de aniversario PY](https://github.com/Josucka/exerciciosaula6/blob/main/desafio.py)
 * [Calculando Raio C#](https://github.com/Josucka/exerciciosaula6/blob/main/CalcularRaio.cs)
 * [Calculando Salario/Horas trabalhadas C#](https://github.com/Josucka/Aulas-exercicios/blob/main/CalculandoHoraTrabalhada.cs)
+* [Calaculando Salario + comissão C#](https://github.com/Josucka/Aulas-exercicios/blob/main/CalcularSalarioComBonus.cs)
 
 ### Esse foram exercicios feito em aula durante o curso na [Blue-edtech](https://blueedtech.com.br).
