@@ -1,4 +1,4 @@
-# Exercicios em Python / CSharp
+# Exercicios em Python / C / CSharp / Html / Css / Js
 
 * [Exercicio de input PY](https://github.com/Josucka/exerciciosaula6/blob/main/exe1.py)
 * [Exercicio de verificação PY](https://github.com/Josucka/exerciciosaula6/blob/main/exe2.py)
