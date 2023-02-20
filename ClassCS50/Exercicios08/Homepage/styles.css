@@ -1,0 +1,43 @@
+.bannerimage {
+    width: 100%;
+    background-image: url(https://th.bing.com/th/id/OIP.xUliNSuoDT0MQtSrCHvEjwHaGg?pid=ImgDet&rs=1);
+    height: 405px;
+    background-color: purple;
+    background-position: center no-repeat;
+}
+
+.barstyle {
+    overflow: hidden;
+    background-color: #00ff00;
+}
+
+.nav-item {
+    float: left;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 15px;
+}
+
+    .nav-item:hover {
+        background-color: black;
+        color: white;
+    }
+
+.active {
+    background-color: black;
+    color: white;
+}
+
+.about {
+    text-align: center;
+    font-size: 15px;
+    color: #f2f2f2;
+}
+
+.animal {
+    width: 300px;
+    heigth: 300px;
+    vertical-align: bottom;
+}
