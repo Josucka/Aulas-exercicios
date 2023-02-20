@@ -14,4 +14,4 @@
 * [Calculando Salario/Horas trabalhadas C#](https://github.com/Josucka/Aulas-exercicios/blob/main/CalculandoHoraTrabalhada.cs)
 * [Calaculando Salario + comissão C#](https://github.com/Josucka/Aulas-exercicios/blob/main/CalcularSalarioComBonus.cs)
 
-### Esse foram exercicios feito em aula durante o curso na [Blue-edtech](https://blueedtech.com.br).
+### Alguns exercicios foram feito em aula durante o curso na [Blue-edtech](https://blueedtech.com.br). Outros enquanto fazia um curso online de Harvard.
